@@ -1,0 +1,30 @@
+﻿body {
+    background-color: floralwhite;
+}
+
+header {
+    background-color: navajowhite;
+    border: 2px solid solid black;
+}
+
+.card {
+    min-height: 200px;
+}
+
+#contenedor {
+    width: 100%;
+    height: 280px;
+    border: 1px solid blue;
+}
+
+.costado {
+    margin: 5px;
+    padding: 3px;
+    width: 45%;
+    border: 1px solid violet;
+}
+
+#derecha {
+    height: 100%;
+    width: 44%;
+    border: 1px solid black;
